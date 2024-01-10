@@ -1,0 +1,11 @@
+ background: red; -> é para o fundo
+ font-size é para o tamanho da fonte
+ tag "a" é para criar link 
+ para colocar no formato hover é somente colocar depois da tag "a' class= o nome da classe
+ e depois você pegar e chama o classe depois do body 
+ li é para criar lista ordenada
+ lu é para criar lista não ordenada
+ ol é para criar lista ordenada 
+ para adicionar imagem é img scr = ""
+ todos pra estar dentron do css precisa estar dentro do style ou arquivo css
+ todos pra estar dentro do java script precisa estar dentro da tag script
